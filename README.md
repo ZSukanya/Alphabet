@@ -1,2 +1,3 @@
 # Alphabet
 my.mine
+lucky
